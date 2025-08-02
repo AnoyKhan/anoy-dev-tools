@@ -1,0 +1,6 @@
+# Ignore common system files and logs
+
+*.log
+*.tmp
+*.swp
+.DS_Store
