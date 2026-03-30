@@ -101,10 +101,6 @@ Contributions are welcome! If you have a useful script or an improvement to an e
 ### Development Setup for Contributors
 To develop or add new scripts, simply clone the repository and ensure you have the necessary runtime environments (e.g., `bash`, `python`) for the scripts you are working on.
 
-## 📄 License
-
-This project is currently unlicensed. Please consider adding a `LICENSE` file for clarity on usage and distribution rights. <!-- TODO: Add a LICENSE file -->
-
 ## 🙏 Acknowledgments
 
 -   The Git project for providing the essential version control system.
